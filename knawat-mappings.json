@@ -1,0 +1,40 @@
+{
+  "MappingOptions": {
+    "MapSimpleProducts": true,
+    "MapVariableProducts": true,
+    "VariationStructure": "ParentSKU",
+    "CategorySeparator": " -> ",
+    "AttributeCollectingMethod": "UsePropertyList"
+  },
+  "Mapping": {
+    "ProductNode": "product",
+    "Type": "type",
+    "Id": "",
+    "SKU": "sku",
+    "Name": "title",
+    "Featured": "",
+    "Visible": "",
+    "ShortDescription": "",
+    "Description": "short_description",
+    "Stock": "quantity",
+    "Weight": "weight",
+    "Length": "",
+    "Width": "",
+    "Height": "",
+    "Note": "",
+    "SalePrice": "price",
+    "RegularPrice": "regular_price",
+    "Category": "categories",
+    "Tags": "",
+    "ShippingClass": "",
+    "Images": "images",
+    "FeaturedImage": "featured_image",
+    "Option": "",
+    "ParentSKU": "parent_sku",
+    "AttributeList": "color,size,gender",
+    "Attribute": "",
+    "AttributeName": "",
+    "AttributeValue": "",
+    "AttributeVisible": ""
+  }
+}
